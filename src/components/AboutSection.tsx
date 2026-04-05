@@ -24,7 +24,7 @@ const AboutSection = () => {
           <div className="space-y-4">
             {[
               { label: "Location", value: "Stuttgart, Germany" },
-              { label: "Focus", value: "Power Electronics & EV Charging" },
+              { label: "Focus", value: "Power Electronics" },
               { label: "Degree", value: "MS Electrical Engineering" },
               { label: "University", value: "University of Stuttgart" },
             ].map((item, i) => (
